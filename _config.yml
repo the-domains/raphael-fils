@@ -1,0 +1,28 @@
+name: Raphael Fils
+favicon: null
+layout_spectrum: 0.06283360533416271
+typography_spectrum: 0.9878797931596637
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.352549743372947
+  lightness: 0.2217256526928395
+  saturation: 0.687711818376556
+  rhythmicContrast: 0.37403337145224214
+purpose: []
